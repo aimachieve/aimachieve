@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/Aim"><img src="https://api.daily.dev/devcards/d3e02cf69b084390bdde32d5436a407c.png?r=ezx" width="400" alt="Aim Achieve's Dev Card"/></a>
 <!--
 **aimachieve/aimachieve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
