@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Aim Achieve&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=AimAchieve&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <h3>
 Hello, dear! <br />
