@@ -38,7 +38,7 @@ Thank you
 </div> 
 
 <p align="center">
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/aimachieve/aimachieve/blob/master/devcard.svg" width="400" alt="Aim Achieve's Dev Card"/></a>
+<a href="https://app.daily.dev/aimachieve"><img src="https://github.com/aimachieve/aimachieve/blob/master/devcard.svg" width="400" alt="Aim Achieve's Dev Card"/></a>
 </p>
 
 <br/>
