@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=David&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Aim Achieve&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <h3>
 Hello, dear! <br />
+  
 Before talking about qualifications and professional abilities, I would like to introduce myself. I am Jacob. Taking web development as a profession not only fulfills my pocket but also my heart, because it has been my passion since I was a teenager.
 I have a Master's degree in Computer Science from Kent University and coursework in e-commerce. With my +8 years of development experience, I have solid knowledge of programming and graphic designing and my works are not only enchanting but also integrated with graphics, powerful logic and great insight. I am also skillful in problem solving methods and acquainted with computer languages like Django/Python and Node. I have worked on 20+ Go & Python projects and solved complex business problems, including e-commerce, real estate and online education. I have consistently saved costs while increasing profits exponentially.
 
@@ -87,7 +88,7 @@ Thank you
 </div> 
 
 <div align="center" style="witdh:100%"> 
-  <br/><h3 align="center"> :open_book: Databases</h3><br/>
+  <br/><h3 align="center"> 💾 Databases</h3><br/>
   
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -101,7 +102,7 @@ Thank you
 </div> 
 
 <div align="center" style="witdh:100%"> 
-  <br/><h3 align="center"> :open_book: Blockchain skills</h3><br/>
+  <br/><h3 align="center"> 🔗 Blockchain skills</h3><br/>
   
   ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
   ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -120,7 +121,7 @@ Thank you
 </div> 
 
 <div align="center" style="witdh:100%"> 
-  <br/><h3 align="center"> :open_book: 🎓 Education</h3><br/>
+  <br/><h3 align="center"> 🎓 Education</h3><br/>
   
   ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
   ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
