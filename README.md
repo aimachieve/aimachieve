@@ -47,82 +47,11 @@ Thank you
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
 </div> 
-<h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
-
-<table>
-  <tr>
-    <td valign="center" width="100px"><b>Frontend<b></td>
-    <td valign="center" width="100px"><b>Backend<b></td>
-    <td valign="center" width="100px"><b>Dev<b></td>
-  </tr>
-  <tr>
-    <td valign="center" align="center" width="300px">
-      <img src="https://img.shields.io/badge/HTML-green" /> 
-      <img src="https://img.shields.io/badge/CSS-green" />
-      <img src="https://img.shields.io/badge/JavaScript-green" /> 
-      <img src="https://img.shields.io/badge/TypeScript-green" />
-      <img src="https://img.shields.io/badge/React-green" /> 
-      <img src="https://img.shields.io/badge/Vue-green" /> 
-      <img src="https://img.shields.io/badge/Angular-green" /> 
-      <img src="https://img.shields.io/badge/Bootstrap-green" /> 
-      <img src="https://img.shields.io/badge/Tailwind-green" /> 
-      <img src="https://img.shields.io/badge/Next-green" /> 
-      <img src="https://img.shields.io/badge/Nuxt-green" /> 
-      <img src="https://img.shields.io/badge/Shopify-green" /> 
-      <img src="https://img.shields.io/badge/Chart.js-green" />
-      <img src="https://img.shields.io/badge/Chart.js-green" />
-      <img src="https://img.shields.io/badge/Chart.js-green" />
-      <img src="https://img.shields.io/badge/Chart.js-green" />
-      <img src="https://img.shields.io/badge/Chart.js-green" />
-    </td>      
-    <td valign="center" align="center" width="300px">
-      <img src="https://img.shields.io/badge/SpringBoot-green" /> 
-      <img src="https://img.shields.io/badge/Django-green" /> 
-      <img src="https://img.shields.io/badge/Python-green" /> 
-      <img src="https://img.shields.io/badge/Selenium-green" />        
-      <img src="https://img.shields.io/badge/Ruby-green" /> 
-      <img src="https://img.shields.io/badge/Rails-green" /> 
-      <img src="https://img.shields.io/badge/BeautifulSoup-green" /> 
-      <img src="https://img.shields.io/badge/Pandas-green" /> 
-      <img src="https://img.shields.io/badge/Numpy-green" /> 
-      <img src="https://img.shields.io/badge/Flask-green" /> 
-      <img src="https://img.shields.io/badge/PHP-green" /> 
-      <img src="https://img.shields.io/badge/Laravel-green" /> 
-      <img src="https://img.shields.io/badge/Node.js-green" /> 
-      <img src="https://img.shields.io/badge/Express-green" /> 
-      <img src="https://img.shields.io/badge/Nest.js-green" /> 
-    </td>
-    <td valign="center" align="center" width="300px">
-      <img src="https://img.shields.io/badge/AWS-green" /> 
-      <img src="https://img.shields.io/badge/CI/CD-green" /> 
-      <img src="https://img.shields.io/badge/Docker-green" /> 
-      <img src="https://img.shields.io/badge/TDD-green" /> 
-      <img src="https://img.shields.io/badge/Jira-green" /> 
-      <img src="https://img.shields.io/badge/Tezos-green" /> 
-      <img src="https://img.shields.io/badge/MySQL-green" /> 
-      <img src="https://img.shields.io/badge/NoSQL-green" /> 
-      <img src="https://img.shields.io/badge/MongoDB-green" /> 
-      <img src="https://img.shields.io/badge/PostgreSQL-green" /> 
-    </td>
-  </tr>
-</table>
   
 <div align="center" style="witdh:100%">
+  
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-  ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
-  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-  ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  
 </div>
 
 <div align="center" style="witdh:100%"> 
