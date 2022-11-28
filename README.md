@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=David&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <h3>
-Hello
+Hello! <br />
 Before talking about qualifications and professional abilities, I would like to introduce myself. I am Jacob. Taking web development as a profession not only fulfills my pocket but also my heart, because it has been my passion since I was a teenager.
 I have a Master's degree in Computer Science from Kent University and coursework in e-commerce. With my +8 years of development experience, I have solid knowledge of programming and graphic designing and my works are not only enchanting but also integrated with graphics, powerful logic and great insight. I am also skillful in problem solving methods and acquainted with computer languages like Django/Python and Node. I have worked on 20+ Go & Python projects and solved complex business problems, including e-commerce, real estate and online education. I have consistently saved costs while increasing profits exponentially.
 
@@ -20,10 +20,16 @@ Besides, my websites are SEO friendly because it did not fail to satisfy the use
 Thank you  
   🤝 
 </h3>
-<br/><p align="center" style="margin-bottom: 10px;">
+
+<br/>
+
+<p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app?username=HashiramaDev&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
 </p>
-<br/><div align="center">
+
+<br/>
+
+<div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
 </div> 
 
@@ -31,72 +37,75 @@ Thank you
 <a href="https://app.daily.dev/aimachieve"><img src="https://api.daily.dev/devcards/21da578f192a4b5f85e6056f765f59a8.png?r=mrm" width="400" alt="Aim Achieve's Dev Card"/></a>
 </p>
 
-<br/><div align="center">
+<br/>
+
+<div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
 </div> 
-  <h3 align="center"> :open_book: Front end skills</h3><br/>
-<!-- <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
-</div>  -->
-<!-- <h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3> -->
 
-<!--   <table>
-    <tr>
-      <td valign="center" width="100px"><b>Frontend<b></td>
-      <td valign="center" width="100px"><b>Backend<b></td>
-      <td valign="center" width="100px"><b>Dev<b></td>
-    </tr>
-    <tr>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/HTML-green" /> 
-        <img src="https://img.shields.io/badge/CSS-green" />
-        <img src="https://img.shields.io/badge/JavaScript-green" /> 
-        <img src="https://img.shields.io/badge/TypeScript-green" />
-        <img src="https://img.shields.io/badge/React-green" /> 
-        <img src="https://img.shields.io/badge/Vue-green" /> 
-        <img src="https://img.shields.io/badge/Angular-green" /> 
-        <img src="https://img.shields.io/badge/Bootstrap-green" /> 
-        <img src="https://img.shields.io/badge/Tailwind-green" /> 
-        <img src="https://img.shields.io/badge/Next-green" /> 
-        <img src="https://img.shields.io/badge/Nuxt-green" /> 
-        <img src="https://img.shields.io/badge/Shopify-green" /> 
-        <img src="https://img.shields.io/badge/Chart.js-green" />
-        <img src="https://img.shields.io/badge/Chart.js-green" />
-        <img src="https://img.shields.io/badge/Chart.js-green" />
-        <img src="https://img.shields.io/badge/Chart.js-green" />
-        <img src="https://img.shields.io/badge/Chart.js-green" />
-      </td>      
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/SpringBoot-green" /> 
-        <img src="https://img.shields.io/badge/Django-green" /> 
-        <img src="https://img.shields.io/badge/Python-green" /> 
-        <img src="https://img.shields.io/badge/Selenium-green" />        
-        <img src="https://img.shields.io/badge/Ruby-green" /> 
-        <img src="https://img.shields.io/badge/Rails-green" /> 
-        <img src="https://img.shields.io/badge/BeautifulSoup-green" /> 
-        <img src="https://img.shields.io/badge/Pandas-green" /> 
-        <img src="https://img.shields.io/badge/Numpy-green" /> 
-        <img src="https://img.shields.io/badge/Flask-green" /> 
-        <img src="https://img.shields.io/badge/PHP-green" /> 
-        <img src="https://img.shields.io/badge/Laravel-green" /> 
-        <img src="https://img.shields.io/badge/Node.js-green" /> 
-        <img src="https://img.shields.io/badge/Express-green" /> 
-        <img src="https://img.shields.io/badge/Nest.js-green" /> 
-      </td>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/AWS-green" /> 
-        <img src="https://img.shields.io/badge/CI/CD-green" /> 
-        <img src="https://img.shields.io/badge/Docker-green" /> 
-        <img src="https://img.shields.io/badge/TDD-green" /> 
-        <img src="https://img.shields.io/badge/Jira-green" /> 
-        <img src="https://img.shields.io/badge/Tezos-green" /> 
-        <img src="https://img.shields.io/badge/MySQL-green" /> 
-        <img src="https://img.shields.io/badge/NoSQL-green" /> 
-        <img src="https://img.shields.io/badge/MongoDB-green" /> 
-        <img src="https://img.shields.io/badge/PostgreSQL-green" /> 
-      </td>
-    </tr>
-  </table> -->
+<h3 align="center"> :open_book: Front end skills</h3><br/>
+<div align="center">
+  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
+</div> 
+<h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
+
+<table>
+  <tr>
+    <td valign="center" width="100px"><b>Frontend<b></td>
+    <td valign="center" width="100px"><b>Backend<b></td>
+    <td valign="center" width="100px"><b>Dev<b></td>
+  </tr>
+  <tr>
+    <td valign="center" align="center" width="300px">
+      <img src="https://img.shields.io/badge/HTML-green" /> 
+      <img src="https://img.shields.io/badge/CSS-green" />
+      <img src="https://img.shields.io/badge/JavaScript-green" /> 
+      <img src="https://img.shields.io/badge/TypeScript-green" />
+      <img src="https://img.shields.io/badge/React-green" /> 
+      <img src="https://img.shields.io/badge/Vue-green" /> 
+      <img src="https://img.shields.io/badge/Angular-green" /> 
+      <img src="https://img.shields.io/badge/Bootstrap-green" /> 
+      <img src="https://img.shields.io/badge/Tailwind-green" /> 
+      <img src="https://img.shields.io/badge/Next-green" /> 
+      <img src="https://img.shields.io/badge/Nuxt-green" /> 
+      <img src="https://img.shields.io/badge/Shopify-green" /> 
+      <img src="https://img.shields.io/badge/Chart.js-green" />
+      <img src="https://img.shields.io/badge/Chart.js-green" />
+      <img src="https://img.shields.io/badge/Chart.js-green" />
+      <img src="https://img.shields.io/badge/Chart.js-green" />
+      <img src="https://img.shields.io/badge/Chart.js-green" />
+    </td>      
+    <td valign="center" align="center" width="300px">
+      <img src="https://img.shields.io/badge/SpringBoot-green" /> 
+      <img src="https://img.shields.io/badge/Django-green" /> 
+      <img src="https://img.shields.io/badge/Python-green" /> 
+      <img src="https://img.shields.io/badge/Selenium-green" />        
+      <img src="https://img.shields.io/badge/Ruby-green" /> 
+      <img src="https://img.shields.io/badge/Rails-green" /> 
+      <img src="https://img.shields.io/badge/BeautifulSoup-green" /> 
+      <img src="https://img.shields.io/badge/Pandas-green" /> 
+      <img src="https://img.shields.io/badge/Numpy-green" /> 
+      <img src="https://img.shields.io/badge/Flask-green" /> 
+      <img src="https://img.shields.io/badge/PHP-green" /> 
+      <img src="https://img.shields.io/badge/Laravel-green" /> 
+      <img src="https://img.shields.io/badge/Node.js-green" /> 
+      <img src="https://img.shields.io/badge/Express-green" /> 
+      <img src="https://img.shields.io/badge/Nest.js-green" /> 
+    </td>
+    <td valign="center" align="center" width="300px">
+      <img src="https://img.shields.io/badge/AWS-green" /> 
+      <img src="https://img.shields.io/badge/CI/CD-green" /> 
+      <img src="https://img.shields.io/badge/Docker-green" /> 
+      <img src="https://img.shields.io/badge/TDD-green" /> 
+      <img src="https://img.shields.io/badge/Jira-green" /> 
+      <img src="https://img.shields.io/badge/Tezos-green" /> 
+      <img src="https://img.shields.io/badge/MySQL-green" /> 
+      <img src="https://img.shields.io/badge/NoSQL-green" /> 
+      <img src="https://img.shields.io/badge/MongoDB-green" /> 
+      <img src="https://img.shields.io/badge/PostgreSQL-green" /> 
+    </td>
+  </tr>
+</table>
   
 <div align="center" style="witdh:100%">
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
