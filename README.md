@@ -25,8 +25,15 @@ Hello, dear!
 <br />
 <br />
   
-Before talking about qualifications and professional abilities, I would like to introduce myself. I am Jacob. Taking web development as a profession not only fulfills my pocket but also my heart, because it has been my passion since I was a teenager.
-I have a Master's degree in Computer Science from Kent University and coursework in e-commerce. With my +8 years of development experience, I have solid knowledge of programming and graphic designing and my works are not only enchanting but also integrated with graphics, powerful logic and great insight. I am also skillful in problem solving methods and acquainted with computer languages like Django/Python and Node. I have worked on 20+ Go & Python projects and solved complex business problems, including e-commerce, real estate and online education. I have consistently saved costs while increasing profits exponentially.
+Before talking about qualifications and professional abilities, I would like to introduce myself. 
+
+Taking web development as a profession not only fulfills my pocket but also my heart, because it has been my passion since I was a teenager. I have a Master's degree in Computer Science from Kent University and coursework in e-commerce. 
+  
+With my +8 years of development experience, I have solid knowledge of programming and graphic designing and my works are not only enchanting but also integrated with graphics, powerful logic and great insight. 
+  
+I am also skillful in problem solving methods and acquainted with computer languages like React/Vue and Node. I have worked on 20+ React & Node projects and solved complex business problems, including e-commerce, real estate and online education. I have consistently saved costs while increasing profits exponentially.
+  
+Furthermore, I jumped in blockchain world since 2017. Meanwhile, I built + 10 successful projects such as Dex/Defi, NFT Minting Dapp/Marketplace, Token(ERC-20, BEP-20) on EVM and Solana network.
 
 [CORE SKILLS]
 - React JS | Vue.js | Angular | Next JS | Typescript 
