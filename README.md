@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Full-Stack & Blockchain Developer
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Full-Stack & Blockchain Engineer
   &nbsp;&nbsp;
   <a href="mailto:aim1005achieve@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="GMail" height="30" width="30">
@@ -18,10 +18,6 @@
   </a> -->
 
 </h1>
-
-<p align="center">
-  <a href="https://github.com/akira0502"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Full-Stack%20Blockchain%20Engineer;7+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
-</p>
 
 <h3>
 Hello, dear! 
@@ -54,6 +50,12 @@ Besides, my websites are SEO friendly because it did not fail to satisfy the use
 Thank you  
   🤝 
 </h3>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/aimachieve"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Full-Stack%20Blockchain%20Engineer;7+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+</p>
 
 <br/>
 
