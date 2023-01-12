@@ -1,6 +1,24 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=AimAchieve&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Full-Stack & Blockchain Developer
+  &nbsp;&nbsp;
+  <a href="mailto:aim1005achieve@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="GMail" height="30" width="30">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/aim1005achieve">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="30" width="30">
+  </a>
+<!--   &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/luckysmile0502/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="30">
+  </a> -->
+
+</h1>
+
 <h3>
 Hello, dear! 
  
@@ -10,14 +28,15 @@ Hello, dear!
 Before talking about qualifications and professional abilities, I would like to introduce myself. I am Jacob. Taking web development as a profession not only fulfills my pocket but also my heart, because it has been my passion since I was a teenager.
 I have a Master's degree in Computer Science from Kent University and coursework in e-commerce. With my +8 years of development experience, I have solid knowledge of programming and graphic designing and my works are not only enchanting but also integrated with graphics, powerful logic and great insight. I am also skillful in problem solving methods and acquainted with computer languages like Django/Python and Node. I have worked on 20+ Go & Python projects and solved complex business problems, including e-commerce, real estate and online education. I have consistently saved costs while increasing profits exponentially.
 
-[ CORE SKILLS ]
-- Django | Python | Flask | Express |Node.js | PHP 
-- GraphQL | REST Apis | Linux | Server-less 
-- MySQL | PostgreSQL | MongoDB | Sqlite | Firebase 
+[CORE SKILLS]
 - React JS | Vue.js | Angular | Next JS | Typescript 
 - JavaScript | HTML5 | CSS | Bootstrap | Tailwind | Material UI 
+- GraphQL | REST APIs | Linux | Serverless 
+- Node.js | Python | Django | Flask | Laravel
+- MySQL | PostgreSQL | MongoDB | SQLite | Firebase 
 - AWS | Netlify | Vercel | Heroku 
 - Terraform | CI/CD | Pipeline 
+- Blockchain: Solidity | Rust, Dex | Defi, NFT Minting | Marketplace, Token Deployment
 
 Besides, my websites are SEO friendly because it did not fail to satisfy the users. Again, I keep myself up to date with new technologies and their uses, new tools and computer languages so that I can give my best level to my clients. I believe in hardship and hiring me would not fail your decision.
 
