@@ -209,22 +209,3 @@ Thank you
 <br/><div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
 </div> 
-<div align="center" style="witdh:100%"> 
-<h3>
- :fire: My Stats
-</h3><br/>
- </div>
-<div align="center" style="witdh:100%"> 
-  <img src = "https://github-readme-stats.vercel.app/api?username=Cool-DJ&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">  
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=Cool-DJ&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-<br><br>
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HashiramaDev&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">    
-</div>
-<br/>
-<br/><div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
-</div> 
-<br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Cool-DJ&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
-<br/>
-<!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
