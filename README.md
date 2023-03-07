@@ -5,11 +5,11 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Full-Stack & Blockchain Engineer
   &nbsp;&nbsp;
-  <a href="mailto:aim1005achieve@gmail.com">
+  <a href="mailto:johnwadelinson@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="GMail" height="30" width="30">
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/aim1005achieve">
+  <a href="https://t.me/BlueStar0805">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="30" width="30">
   </a>
 <!--   &nbsp;&nbsp;
