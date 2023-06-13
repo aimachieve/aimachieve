@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Full-Stack & Blockchain Engineer
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Full Stack | Ecommerce | Blockchain Engineer
 <!--   &nbsp;&nbsp;
   <a href="mailto:johnwadelinson@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="GMail" height="30" width="30">
@@ -27,19 +27,20 @@ Hello, dear!
   
 Before talking about qualifications and professional abilities, I would like to introduce myself. 
 
-Taking web development as a profession not only fulfills my pocket but also my heart, because it has been my passion since I was a teenager. I have a Master's degree in Computer Science from Kent University and coursework in e-commerce. 
+Taking web development as a profession not only fulfills my pocket but also my heart, because it has been my passion since I was a teenager. I have a Bachelor's degree in Computer Science from Baylor University and coursework in e-commerce. 
   
-With my +8 years of development experience, I have solid knowledge of programming and graphic designing and my works are not only enchanting but also integrated with graphics, powerful logic and great insight. 
+With over 8 years of development experience, I have solid knowledge of programming and graphic designing and my works are not only enchanting but also integrated with graphics, powerful logic and great insight. 
   
 I am also skillful in problem solving methods and acquainted with computer languages like React/Vue and Node. I have worked on 20+ React & Node projects and solved complex business problems, including e-commerce, real estate and online education. I have consistently saved costs while increasing profits exponentially.
   
-Furthermore, I jumped in blockchain world since 2017. Meanwhile, I built + 10 successful projects such as Dex/Defi, NFT Minting Dapp/Marketplace, Token(ERC-20, BEP-20) on EVM and Solana network.
+Furthermore, I jumped in blockchain world since 2019. Meanwhile, I built + 10 successful projects such as Dex/Defi, NFT Minting Dapp/Marketplace, Token(ERC-20, BEP-20) on EVM and Solana network.
 
 [CORE SKILLS]
-- React JS | Vue.js | Angular | Next JS | Typescript 
+- React JS | Vue.js | Angular | Next JS | Typescript
+- Shopify | Shopify Plus | Shopify App | Shopify Theme Customization | WordPress | Woocommerce
 - JavaScript | HTML5 | CSS | Bootstrap | Tailwind | Material UI 
 - GraphQL | REST APIs | Linux | Serverless 
-- Node.js | Python | Django | Flask | Laravel
+- Node.js | Python | Django | Flask | Laravel | Golang
 - MySQL | PostgreSQL | MongoDB | SQLite | Firebase 
 - AWS | Netlify | Vercel | Heroku 
 - Terraform | CI/CD | Pipeline 
