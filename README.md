@@ -55,7 +55,7 @@ Thank you
 <br/>
 
 <p align="center">
-  <a href="https://github.com/aimachieve"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Full-Stack%20Blockchain%20Engineer;8+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+  <a href="https://github.com/aimachieve"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Full-Stack%20Blockchain%20Ecommerce%20Developer;8+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
 
 <br/>
