@@ -16,15 +16,15 @@ Hello, dear!
 <br />
 <br />
   
-Before talking about qualifications and professional abilities, I would like to introduce myself. 
+Before talking about qualifications and professional abilities, I would like to introduce myself.
 
-Taking web development as a profession not only fulfills my pocket but also my heart, because it has been my passion since I was a teenager. I have a Bachelor's degree in Computer Science from Baylor University and coursework in e-commerce. 
+Taking web development as a profession not only fulfills my pocket but also my heart, because it has been my passion since I was a teenager. I have a bachelor's degree in computer science and coursework in e-commerce.
   
-With over 8 years of development experience, I have solid knowledge of programming and graphic designing and my works are not only enchanting but also integrated with graphics, powerful logic and great insight. 
+With over 8 years of development experience, I have solid knowledge of programming and graphic design, and my works are not only enchanting but also integrated with graphics, powerful logic, and great insight.
   
-I am also skillful in problem solving methods and acquainted with computer languages like React/Vue and Node. I have worked on 20+ React & Node projects and solved complex business problems, including e-commerce, real estate and online education. I have consistently saved costs while increasing profits exponentially.
+I am also skilled in problem-solving methods and acquainted with computer languages like React, Vue, and Node. I have worked on 20+ React & Node projects and solved complex business problems, including e-commerce, real estate, and online education. I have consistently saved costs while increasing profits exponentially.
   
-Furthermore, I jumped in blockchain world since 2019. Meanwhile, I built + 10 successful projects such as Dex/Defi, NFT Minting Dapp/Marketplace, Token(ERC-20, BEP-20) on EVM and Solana network.
+Furthermore, I have been in the blockchain world since 2019. Meanwhile, I built +10 successful projects such as Dex/Defi, NFT Minting Dapp/Marketplace, and Token (ERC-20, BEP-20) on the EVM and Solana networks.
 
 [CORE SKILLS]
 - React JS | Vue.js | Angular | Next JS | Typescript
@@ -37,7 +37,7 @@ Furthermore, I jumped in blockchain world since 2019. Meanwhile, I built + 10 su
 - Terraform | CI/CD | Pipeline 
 - Blockchain: Solidity | Rust, Dex | Defi, NFT Minting | Marketplace, Token Deployment
 
-Besides, my websites are SEO friendly because it did not fail to satisfy the users. Again, I keep myself up to date with new technologies and their uses, new tools and computer languages so that I can give my best level to my clients. I believe in hardship and hiring me would not fail your decision.
+Besides, my websites are SEO-friendly because they do not fail to satisfy the users. Again, I keep myself up to date with new technologies and their uses, new tools, and new computer languages so that I can give my best level to my clients. I believe in hardship, and hiring me would not fail your decision.
 
 Thank you  
   🤝 
